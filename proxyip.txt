@@ -6,3 +6,4 @@
 8.222.223.210 SG-proxyip
 8.222.190.125 SG-proxyip
 8.222.129.254 SG-proxyip
+158.101.80.84 JP-proxyip
