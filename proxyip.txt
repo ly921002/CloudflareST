@@ -12,11 +12,11 @@
 132.145.94.80 KR-proxyip
 146.56.110.103 KR-proxyip
 193.123.243.138 KR-proxyip
-140.238.212.95 CH-proxyip
+140.238.212.95 🇨🇭 CH-proxyip
 158.101.23.175 US-proxyip
 152.67.125.174 AU-proxyip
 152.67.125.161 AU-proxyip
-158.180.231.216 IT-proxyip
+158.180.231.216 🇮🇹 IT-proxyip
 129.159.202.83 DE-proxyip
 193.122.58.158 DE-proxyip
 141.147.69.217 GB-proxyip
