@@ -9,8 +9,8 @@
 152.70.110.192 JP-proxyip
 193.122.114.82 KR-proxyip
 132.145.94.80 KR-proxyip
-146.56.110.103 KR-proxyip
-193.123.243.138 KR-proxyip
+146.56.110.103 SG-proxyip
+193.123.243.138 SG-proxyip
 152.67.125.174 AU-proxyip
 152.67.125.161 AU-proxyip
 129.159.202.83 DE-proxyip
