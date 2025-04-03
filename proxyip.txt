@@ -4,13 +4,8 @@
 158.101.24.17 US-proxyip
 158.101.23.175 US-proxyip
 158.101.80.84 JP-proxyip
-150.230.196.190 JP-proxyip
-141.147.171.154 JP-proxyip
-152.70.110.192 JP-proxyip
 193.122.114.82 KR-proxyip
 132.145.94.80 KR-proxyip
-146.56.110.103 SG-proxyip
-193.123.243.138 SG-proxyip
 152.67.125.174 AU-proxyip
 152.67.125.161 AU-proxyip
 129.159.202.83 DE-proxyip
@@ -19,4 +14,4 @@
 150.230.118.66 GB-proxyip
 141.145.199.188 FR-proxyip
 158.180.231.216 FR-proxyip
-140.238.212.95 🇨🇭 CH-proxyip
+
